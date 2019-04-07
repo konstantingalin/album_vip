@@ -13146,6 +13146,11 @@ header {
   margin-top: -10px;
   text-align: right; }
 
+header .header-menu .hamburger--emphatic {
+  padding: 0;
+  padding-top: 3px;
+  margin-top: 14px; }
+
 .mm-panel, .mm-navbar {
   background-color: #fff; }
 
@@ -13336,14 +13341,20 @@ section p {
       outline: 0; }
     .photo-carousel .owl-dots .active, .feedback-carousel .owl-dots .active {
       background-color: #fff; }
-  .photo-carousel .item1 .img1, .photo-carousel .item1 .img2, .photo-carousel .item2 .img1, .photo-carousel .item2 .img2, .photo-carousel .item3 .img1, .photo-carousel .item3 .img2, .photo-carousel .item4 .img1, .photo-carousel .item4 .img2, .photo-carousel .item5 .img1, .photo-carousel .item5 .img2, .photo-carousel .item6 .img1, .photo-carousel .item6 .img2, .photo-carousel .item7 .img1, .photo-carousel .item7 .img2, .photo-carousel .item8 .img1, .photo-carousel .item8 .img2, .photo-carousel .item9 .img1, .photo-carousel .item9 .img2, .feedback-carousel .item1 .img1, .feedback-carousel .item1 .img2, .feedback-carousel .item2 .img1, .feedback-carousel .item2 .img2, .feedback-carousel .item3 .img1, .feedback-carousel .item3 .img2, .feedback-carousel .item4 .img1, .feedback-carousel .item4 .img2, .feedback-carousel .item5 .img1, .feedback-carousel .item5 .img2, .feedback-carousel .item6 .img1, .feedback-carousel .item6 .img2, .feedback-carousel .item7 .img1, .feedback-carousel .item7 .img2, .feedback-carousel .item8 .img1, .feedback-carousel .item8 .img2, .feedback-carousel .item9 .img1, .feedback-carousel .item9 .img2 {
+  .photo-carousel .item1 .img1, .photo-carousel .item1 .img2, .photo-carousel .item2 .img1, .photo-carousel .item2 .img2, .photo-carousel .item3 .img1, .photo-carousel .item3 .img2, .photo-carousel .item4 .img1, .photo-carousel .item4 .img2, .photo-carousel .item5 .img1, .photo-carousel .item5 .img2, .photo-carousel .item6 .img1, .photo-carousel .item6 .img2,
+  .photo-carousel .item7 .img1,
+  .photo-carousel .item7 .img2, .photo-carousel .item8 .img1, .photo-carousel .item8 .img2, .photo-carousel .item9 .img1, .photo-carousel .item9 .img2, .photo-carousel .item10 .img1, .photo-carousel .item10 .img2, .photo-carousel .item11 .img1, .photo-carousel .item11 .img2, .photo-carousel .item12 .img1, .photo-carousel .item12 .img2, .feedback-carousel .item1 .img1, .feedback-carousel .item1 .img2, .feedback-carousel .item2 .img1, .feedback-carousel .item2 .img2, .feedback-carousel .item3 .img1, .feedback-carousel .item3 .img2, .feedback-carousel .item4 .img1, .feedback-carousel .item4 .img2, .feedback-carousel .item5 .img1, .feedback-carousel .item5 .img2, .feedback-carousel .item6 .img1, .feedback-carousel .item6 .img2,
+  .feedback-carousel .item7 .img1,
+  .feedback-carousel .item7 .img2, .feedback-carousel .item8 .img1, .feedback-carousel .item8 .img2, .feedback-carousel .item9 .img1, .feedback-carousel .item9 .img2, .feedback-carousel .item10 .img1, .feedback-carousel .item10 .img2, .feedback-carousel .item11 .img1, .feedback-carousel .item11 .img2, .feedback-carousel .item12 .img1, .feedback-carousel .item12 .img2 {
     background-repeat: no-repeat;
     background-position: center;
     margin: 0 15px;
     display: block;
     height: 300px;
     background-color: #363636; }
-  .photo-carousel .item1 .img1, .photo-carousel .item2 .img1, .photo-carousel .item3 .img1, .photo-carousel .item4 .img1, .photo-carousel .item5 .img1, .photo-carousel .item6 .img1, .photo-carousel .item7 .img1, .photo-carousel .item8 .img1, .photo-carousel .item9 .img1, .feedback-carousel .item1 .img1, .feedback-carousel .item2 .img1, .feedback-carousel .item3 .img1, .feedback-carousel .item4 .img1, .feedback-carousel .item5 .img1, .feedback-carousel .item6 .img1, .feedback-carousel .item7 .img1, .feedback-carousel .item8 .img1, .feedback-carousel .item9 .img1 {
+  .photo-carousel .item1 .img1, .photo-carousel .item2 .img1, .photo-carousel .item3 .img1, .photo-carousel .item4 .img1, .photo-carousel .item5 .img1, .photo-carousel .item6 .img1,
+  .photo-carousel .item7 .img1, .photo-carousel .item8 .img1, .photo-carousel .item9 .img1, .photo-carousel .item10 .img1, .photo-carousel .item11 .img1, .photo-carousel .item12 .img1, .feedback-carousel .item1 .img1, .feedback-carousel .item2 .img1, .feedback-carousel .item3 .img1, .feedback-carousel .item4 .img1, .feedback-carousel .item5 .img1, .feedback-carousel .item6 .img1,
+  .feedback-carousel .item7 .img1, .feedback-carousel .item8 .img1, .feedback-carousel .item9 .img1, .feedback-carousel .item10 .img1, .feedback-carousel .item11 .img1, .feedback-carousel .item12 .img1 {
     margin-bottom: 30px; }
   .photo-carousel .item1 .img1, .feedback-carousel .item1 .img1 {
     background-image: url(../img/photos/1.png); }
@@ -13381,6 +13392,18 @@ section p {
     background-image: url(../img/photos/17.png); }
   .photo-carousel .item9 .img2, .feedback-carousel .item9 .img2 {
     background-image: url(../img/photos/18.png); }
+  .photo-carousel .item10 .img1, .feedback-carousel .item10 .img1 {
+    background-image: url(../img/photos/19.png); }
+  .photo-carousel .item10 .img2, .feedback-carousel .item10 .img2 {
+    background-image: url(../img/photos/20.png); }
+  .photo-carousel .item11 .img1, .feedback-carousel .item11 .img1 {
+    background-image: url(../img/photos/21.png); }
+  .photo-carousel .item11 .img2, .feedback-carousel .item11 .img2 {
+    background-image: url(../img/photos/22.png); }
+  .photo-carousel .item12 .img1, .feedback-carousel .item12 .img1 {
+    background-image: url(../img/photos/23.png); }
+  .photo-carousel .item12 .img2, .feedback-carousel .item12 .img2 {
+    background-image: url(../img/photos/24.png); }
 
 .price_of_album {
   padding-bottom: 102px;
@@ -13568,6 +13591,11 @@ section p {
        -moz-appearance: none;
             appearance: none; }
 
+.feedback {
+  background-image: url(../img/decor_lines.png);
+  background-repeat: no-repeat;
+  background-position: center; }
+
 .feedback-carousel {
   padding: 0; }
   .feedback-carousel .owl-dots {
@@ -13578,18 +13606,26 @@ section p {
       outline: 0; }
     .feedback-carousel .owl-dots .active {
       background-color: #7062ff; }
-  .feedback-carousel .item1 .img, .feedback-carousel .item2 .img, .feedback-carousel .item3 .img {
+  .feedback-carousel .item1 .img, .feedback-carousel .item2 .img, .feedback-carousel .item3 .img, .feedback-carousel .item4 .img, .feedback-carousel .item5 .img {
     margin-right: 30px;
-    width: 360px;
-    height: 360px;
+    width: 300px;
+    height: 300px;
     background-color: #363636;
     background-repeat: no-repeat;
     background-position: center;
     float: left; }
   .feedback-carousel .item1 .img {
-    background-image: url(../img/photos/teacher1.png); }
+    background-image: url(../img/photos/feedback1.png); }
+  .feedback-carousel .item2 .img {
+    background-image: url(../img/photos/feedback2.png); }
+  .feedback-carousel .item3 .img {
+    background-image: url(../img/photos/feedback3.png); }
+  .feedback-carousel .item4 .img {
+    background-image: url(../img/photos/feedback4.png); }
+  .feedback-carousel .item5 .img {
+    background-image: url(../img/photos/feedback5.png); }
   .feedback-carousel .feedback_info {
-    padding-top: 10px;
+    padding-top: 50px;
     padding-right: 30px; }
   .feedback-carousel h4 {
     font-weight: 600;
@@ -13607,6 +13643,20 @@ footer {
   footer .soc {
     margin-left: 64px; }
 
+.to_photogalery {
+  padding-bottom: 120px;
+  background-image: -webkit-linear-gradient(29deg, #8477ff 0%, #b192ff 89%);
+  background-image: -o-linear-gradient(29deg, #8477ff 0%, #b192ff 89%);
+  background-image: linear-gradient(61deg, #8477ff 0%, #b192ff 89%);
+  background-image: -moz-linear-gradient(61deg, #8477ff 0%, #b192ff 89%);
+    background-image-background-image: -webkit-linear-gradient(61deg, #8477ff 0%, #b192ff 89%);
+    background-image-background-image: -ms-linear-gradient(61deg, #8477ff 0%, #b192ff 89%);
+  color: #fff; }
+  .to_photogalery h2, .to_photogalery h2 span {
+    color: #fff; }
+  .to_photogalery .up_button {
+    margin-top: 50px; }
+
 /**********************************************************/
 /**********    Аыпускные альбомы: детский сад    **********/
 /**********************************************************/
@@ -13617,45 +13667,48 @@ footer {
   margin-top: 87px;
   padding-bottom: 65px; }
 
-.kindergarten_page .images .img1, .kindergarten_page .images .img2, .kindergarten_page .images .img3 {
+.kindergarten_page .images .img1, .kindergarten_page .images .img2, .kindergarten_page .images .img3, .kindergarten_page .images .img4, .kindergarten_page .images .img5, .kindergarten_page .images .img6,
+.kindergarten_page .images .img7, .kindergarten_page .images .img8, .kindergarten_page .images .img9 {
   width: 100%;
   height: 500px;
   background-color: #988bfe;
   background-repeat: no-repeat;
   background-position: center; }
 
-.kindergarten_page .images .img2, .kindergarten_page .images .img3 {
-  margin-top: 30px;
-  display: inline-block;
-  float: left;
-  width: 254px;
-  height: 200px; }
+.kindergarten_page .images .img2, .kindergarten_page .images .img3, .kindergarten_page .images .img5,
+.kindergarten_page .images .img6, .kindergarten_page .images .img8, .kindergarten_page .images .img9 {
+  margin-top: 0;
+  width: 100%;
+  height: 235px; }
 
-.kindergarten_page .images .img2 {
-  margin-right: 30px;
-  width: 255px; }
+.kindergarten_page .images .img2, .kindergarten_page .images .img5, .kindergarten_page .images .img8 {
+  margin-bottom: 30px; }
 
-.kindergarten_page .size, .kindergarten_page .design, .kindergarten_page .type {
-  margin-top: 44px;
-  float: left; }
+.kindergarten_page .examples_album {
+  padding-bottom: 84px; }
+  .kindergarten_page .examples_album h3 {
+    margin-top: 45px; }
+  .kindergarten_page .examples_album .price_of {
+    margin-top: 11px;
+    float: left; }
+    .kindergarten_page .examples_album .price_of h5 {
+      margin-top: -40px; }
+    .kindergarten_page .examples_album .price_of h4, .kindergarten_page .examples_album .price_of h5 {
+      display: inline-block; }
+    .kindergarten_page .examples_album .price_of .button {
+      margin: -20px 0 0 95px;
+      position: relative;
+      top: -20px; }
 
-.kindergarten_page .size {
-  margin-right: 66px; }
+.kindergarten_page .interesting .img {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-position: center 20px; }
 
-.kindergarten_page .design {
-  margin-right: 59px; }
-
-.kindergarten_page .case_of_album {
-  float: left;
-  margin-right: 61px; }
-
-.kindergarten_page .case_of_album, .kindergarten_page .edition {
-  position: relative;
-  top: -8px; }
-
-.kindergarten_page .price_of {
-  float: left;
-  margin-top: 52px; }
+.kindergarten_page .interesting .school .img, .kindergarten_page .interesting .college .img {
+  -webkit-background-size: 130% 130%;
+          background-size: 130%;
+  background-position: -115px 20px; }
 
 .kindergarten_page .examples_album {
   background-image: url(../img/decor_lines.png);
@@ -13690,19 +13743,41 @@ footer {
   .examples_album h5 span {
     font-size: 20px; }
 
-.children .item1 .img1, .children .item1 .img2, .children .item1 .img3 {
+.children .item1 .img1, .children .item1 .img2, .children .item1 .img3,
+.children .item1 .img4, .children .item1 .img5, .children .item1 .img6,
+.children .item1 .img7, .children .item1 .img8, .children .item1 .img9 {
   background-repeat: no-repeat;
   background-position: center; }
 
 .children .item1 .img1 {
   background-image: url(../img/album/kindergarten1.png);
-  background-position: center 20px; }
+  background-position: center 0px; }
 
 .children .item1 .img2 {
   background-image: url(../img/album/kindergarten2.png); }
 
 .children .item1 .img3 {
   background-image: url(../img/album/kindergarten3.png); }
+
+.children .item1 .img4 {
+  background-image: url(../img/album/kindergarten4.png);
+  background-position: center 0px; }
+
+.children .item1 .img5 {
+  background-image: url(../img/album/kindergarten5.png); }
+
+.children .item1 .img6 {
+  background-image: url(../img/album/kindergarten6.png); }
+
+.children .item1 .img7 {
+  background-image: url(../img/album/kindergarten7.png);
+  background-position: center 0px; }
+
+.children .item1 .img8 {
+  background-image: url(../img/album/kindergarten8.png); }
+
+.children .item1 .img9 {
+  background-image: url(../img/album/kindergarten9.png); }
 
 .interesting {
   padding-bottom: 120px;
@@ -13721,23 +13796,104 @@ footer {
 
 .school_page .children-school .img1 {
   background-image: url(../img/album/school1.png);
-  background-position: -65px center; }
+  background-position: center 0px; }
 
 .school_page .children-school .img2 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
   background-image: url(../img/album/school2.png); }
 
 .school_page .children-school .img3 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
   background-image: url(../img/album/school3.png); }
+
+.school_page .children-school .img4 {
+  background-image: url(../img/album/school4.png);
+  background-position: center 0px; }
+
+.school_page .children-school .img5 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/school5.png);
+  background-position: center 0px; }
+
+.school_page .children-school .img6 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/school6.png);
+  background-position: center 0px; }
+
+.school_page .children-school .img7 {
+  background-image: url(../img/album/school7.png);
+  background-position: center 27px; }
+
+.school_page .children-school .img8 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/school8.png); }
+
+.school_page .children-school .img9 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/school9.png); }
 
 .college_page .college-people .img1 {
   background-image: url(../img/album/college1.png);
-  background-position: center 10px; }
+  background-position: center 0px; }
 
 .college_page .college-people .img2 {
-  background-image: url(../img/album/college2.png); }
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/college2.png);
+  background-position: center 6px; }
 
 .college_page .college-people .img3 {
-  background-image: url(../img/album/college3.png); }
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/college3.png);
+  background-position: center 6px; }
+
+.college_page .college-people .img4 {
+  background-image: url(../img/album/college4.png);
+  background-position: center 0px; }
+
+.college_page .college-people .img5 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/college5.png); }
+
+.college_page .college-people .img6 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/college6.png); }
+
+.college_page .college-people .img7 {
+  background-image: url(../img/album/college7.png);
+  background-position: center 0px; }
+
+.college_page .college-people .img8 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/college8.png); }
+
+.college_page .college-people .img9 {
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+  background-image: url(../img/album/college9.png); }
+
+.cases_photos {
+  padding: 100px 0; }
+  .cases_photos .item1 .img1, .cases_photos .item1 .img2, .cases_photos .item1 .img3, .cases_photos .item1 .img4, .cases_photos .item1 .img5, .cases_photos .item1 .img6, .cases_photos .item2 .img1, .cases_photos .item2 .img2, .cases_photos .item2 .img3, .cases_photos .item2 .img4, .cases_photos .item2 .img5, .cases_photos .item2 .img6, .cases_photos .item3 .img1, .cases_photos .item3 .img2, .cases_photos .item3 .img3, .cases_photos .item3 .img4, .cases_photos .item3 .img5, .cases_photos .item3 .img6, .cases_photos .item4 .img1, .cases_photos .item4 .img2, .cases_photos .item4 .img3, .cases_photos .item4 .img4, .cases_photos .item4 .img5, .cases_photos .item4 .img6, .cases_photos .item5 .img1, .cases_photos .item5 .img2, .cases_photos .item5 .img3, .cases_photos .item5 .img4, .cases_photos .item5 .img5, .cases_photos .item5 .img6, .cases_photos .item6 .img1, .cases_photos .item6 .img2, .cases_photos .item6 .img3, .cases_photos .item6 .img4, .cases_photos .item6 .img5, .cases_photos .item6 .img6 {
+    background-color: #988bfe;
+    height: 600px;
+    background-image: url(../img/album/school1.png);
+    background-position: center 46px;
+    -webkit-background-size: 110% 110%;
+            background-size: 110%;
+    background-repeat: no-repeat; }
+  .cases_photos .item1, .cases_photos .item2, .cases_photos .item3, .cases_photos .item4, .cases_photos .item5, .cases_photos .item6 {
+    margin-bottom: 30px; }
 
 .top {
   display: inline-block;
@@ -13863,25 +14019,238 @@ footer {
     -webkit-background-size: 45%, 90%;
             background-size: 45%, 90%; }
   .details_of_price .item2 {
-    margin-left: -6px; }
+    margin-left: 8px; }
   .details_of_price .item3 {
-    margin-left: 0; } }
+    margin-left: 0; }
+  .movie_of_school .item1 {
+    height: 500px; }
+  .movie_of_school .item2, .movie_of_school .item3 {
+    height: 235px; }
+  .question .button span {
+    display: none; }
+  .feedback-carousel .img {
+    margin-bottom: 21px; }
+  .why_buy .headers p br {
+    display: none; }
+  .examples_album .images .img2, .examples_album .images .img5, .examples_album .images .img8 {
+    float: left;
+    width: 450px;
+    margin: 30px 30px 0 0; }
+  .examples_album .images .img3, .examples_album .images .img6, .examples_album .images .img9 {
+    float: right;
+    width: 450px;
+    margin-top: 30px; } }
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
-  /**/ }
+  header .soc {
+    display: none; }
+  .mail {
+    margin-top: 4px; }
+    .mail a {
+      font-size: 16px; }
+  .phone p {
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 24px;
+    -webkit-background-size: 15px 15px;
+            background-size: 15px;
+    background-position: 4px 11px; }
+  .content-header {
+    margin-top: 100px; }
+    .content-header h1 {
+      font-size: 48px;
+      line-height: 48px; }
+    .content-header p br {
+      display: none; }
+  .next_block {
+    margin: 100px 0 70px; }
+  .headers {
+    margin-top: 54px; }
+    .headers h2 {
+      font-size: 40px; }
+    .headers p br {
+      display: none; }
+  .we_photo .container-owl {
+    width: 750px; }
+  .hard_case2 .img {
+    -webkit-background-size: 30%, 92%;
+            background-size: 30%, 92%; }
+  .hard_case2, .hard_case3 {
+    margin-top: 65px; }
+  .feedback .feedback-carousel .img {
+    width: 250px; }
+  .feedback .item3 .feedback_info, .feedback .item5 .feedback_info {
+    padding-top: 15px; }
+  footer {
+    -webkit-background-size: cover;
+            background-size: cover; }
+    footer .soc {
+      text-align: right; }
+    footer .mail {
+      margin: 4px 0 0;
+      text-align: right; }
+    footer .phone {
+      margin-top: -6px;
+      text-align: right; }
+      footer .phone p {
+        padding-left: 15px;
+        font-size: 23px;
+        -webkit-background-size: 12px 12px;
+                background-size: 12px;
+        display: inline-block; }
+  .photoalbums .img {
+    -webkit-background-size: 125% 125%;
+            background-size: 125%;
+    background-position: -90px 40px; }
+  .photoalbums .kindergarten .img {
+    -webkit-background-size: 100% 100%;
+            background-size: 100%;
+    background-position: center 40px; }
+  .photoalbums .case .img {
+    -webkit-background-size: 130% 130%;
+            background-size: 130%;
+    background-position: 0px 40px; }
+  .details_of_price .item2 {
+    margin: 0; }
+    .details_of_price .item2 p {
+      white-space: normal; }
+      .details_of_price .item2 p br {
+        display: none; }
+  .examples_album .images .img2, .examples_album .images .img5, .examples_album .images .img8 {
+    float: left;
+    width: 330px;
+    margin: 30px 30px 0 0; }
+  .examples_album .images .img3, .examples_album .images .img6, .examples_album .images .img9 {
+    float: right;
+    width: 330px;
+    margin-top: 30px; } }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
-  /**/ }
+  header {
+    padding-bottom: 100px; }
+    header .mail {
+      display: none; }
+  .content-header {
+    margin-top: 50px; }
+  .next_block {
+    display: none; }
+  .we_photo .container-owl {
+    width: 572px; }
+  .price_of_album .img {
+    -webkit-background-size: 70% 70%;
+            background-size: 70%; }
+  .price_of_album .hard_case2 .img {
+    -webkit-background-size: 20%, 70%;
+            background-size: 20%, 70%; }
+  .price_of_album .soft_case1 {
+    margin-bottom: 65px; }
+  .movie_of_school .item1, .movie_of_school .item2, .movie_of_school .item3 {
+    -webkit-background-size: cover;
+            background-size: cover;
+    width: 100%;
+    height: 300px; }
+  .feedback .feedback-carousel .img {
+    -webkit-background-size: cover;
+            background-size: cover;
+    width: 400px;
+    clear: both; }
+  footer .mail {
+    text-align: left; }
+  .details_of_price .item2 p br {
+    display: block; }
+  .headers h2 {
+    line-height: 42px; }
+  .examples_album .images .img2, .examples_album .images .img5, .examples_album .images .img8 {
+    clear: both;
+    width: 100%;
+    margin: 30px 30px 0 0; }
+  .examples_album .images .img3, .examples_album .images .img6, .examples_album .images .img9 {
+    clear: both;
+    width: 100%;
+    margin-top: 30px; } }
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 573px) {
+  .we_photo .container-owl {
+    width: 100%; } }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
-  /**/ }
+  header .phone {
+    margin: 6px 0 0; }
+    header .phone p {
+      font-size: 20px;
+      background-position: 5px 7px; }
+  .why_buy h2 {
+    padding-right: 50px; }
+  .hamburger {
+    position: absolute;
+    top: -7px;
+    right: 10px; }
+  .content-header h1 {
+    font-size: 40px;
+    line-height: 40px; }
+  .content-header p {
+    font-size: 15px; }
+  .feedback .feedback-carousel .img {
+    width: 100%; }
+  .details_of_price h2 {
+    line-height: 40px; }
+  .kindergarten_page .examples_album .price_of .button {
+    margin-top: 35px;
+    left: -94px; }
+  .kindergarten_page .examples_album .img1, .kindergarten_page .examples_album .img4, .kindergarten_page .examples_album .img7 {
+    height: 300px;
+    -webkit-background-size: 88% 88%;
+            background-size: 88%;
+    background-position: 15px 0; }
+  .kindergarten_page .examples_album .img2, .kindergarten_page .examples_album .img3, .kindergarten_page .examples_album .img5, .kindergarten_page .examples_album .img6, .kindergarten_page .examples_album .img8, .kindergarten_page .examples_album .img9 {
+    -webkit-background-size: 115% 115%;
+            background-size: 115%; }
+  .kindergarten_page header {
+    padding-bottom: 30px; }
+  .kindergarten_page .content-header {
+    margin-top: 50px;
+    padding: 0; }
+  .kindergarten_page h1 {
+    font-size: 40px;
+    line-height: 40px; } }
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width: 320px) {
-  /**/ }
+  header .phone {
+    display: none; }
+  .photo-carousel .owl-dots {
+    padding: 40px 0 40px; }
+    .photo-carousel .owl-dots .owl-dot {
+      margin: 5px 3px; }
+  .hamburger {
+    position: absolute;
+    top: -47px;
+    right: -255px; }
+  footer .soc {
+    position: relative;
+    top: 30px;
+    left: -125px; }
+  footer .mail {
+    margin-top: 30px; }
+  footer .phone {
+    margin-top: 65px;
+    margin-left: -70px;
+    position: relative;
+    left: -108px; }
+  .examples_album .button span {
+    display: none; }
+  .kindergarten_page .examples_album .img1, .kindergarten_page .examples_album .img4, .kindergarten_page .examples_album .img7 {
+    height: 300px;
+    -webkit-background-size: 130% 130%;
+            background-size: 130%;
+    background-position: -55px 10px; }
+  .kindergarten_page .examples_album .img2, .kindergarten_page .examples_album .img3, .kindergarten_page .examples_album .img5, .kindergarten_page .examples_album .img6, .kindergarten_page .examples_album .img8, .kindergarten_page .examples_album .img9 {
+    -webkit-background-size: 159% 159%;
+            background-size: 159%; } }
 
 /*==========  Mobile First  ==========*/
 /* Custom, iPhone Retina */
